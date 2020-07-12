@@ -1,0 +1,29 @@
+body {
+  background-color: #7B6074;
+}
+
+th, td, p {
+  color: #F1E3ED;
+}
+td{
+  text-align: center;
+}
+table{
+  border: 1px solid black;
+}
+
+a:link {
+  color: lightblue;
+}
+
+a:hover{
+  color: black;
+}
+
+input {
+  text-align: center;
+}
+
+textarea {
+  text-align: center;
+}
